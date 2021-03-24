@@ -1,11 +1,11 @@
 # Site settings
-author: Cherissa Woudenberg
-title: 
+author: Cherissa
+title: My Adventures in Coding
 header-img: img/home-bg.png
 email: snerzel@comcast.net
-copyright_name: Cherissa Woudenberg
+copyright_name: Cherissa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  It Begins 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Snerzel
